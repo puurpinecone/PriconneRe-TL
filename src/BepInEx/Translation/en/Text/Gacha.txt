@@ -10,7 +10,7 @@ Sダッシュ=S:Dash
 ピックアップ=Focus
 プラチナガチャ=Premium Gacha
 ノーマルガチャ=Normal Gacha
-プライズガチャ=Prize gacha
+プライズガチャ=Prize Gacha
 選べる★3(闇)=3★ Dark
 選べる★3(光)=3★ Light
 選べる★3(水)=3★ Water
@@ -19,7 +19,7 @@ Sダッシュ=S:Dash
 
 
 限定★3確定=Limited ★3\nGuarantee
-限定★3確定ガチャ=Guarantee ★3\nLim gacha
+限定★3確定ガチャ=Guarantee ★3\nLim. Gacha
 r:"^([0-9.]+)Year Anniversaryガチャ$"=$1 Year Anniversary Gacha
 r:"^([0-9.]+)th Anniversaryガチャ$"=$1th Anniversary Gacha
 限定スタートダッシュガチャ=Limited Start Dash Gacha
@@ -35,12 +35,12 @@ r:"^★3確定 ([0-9.]+)周年記念ガチャチケット$"=Guarantee ★3 $1th 
 sr:"^★3確定( )?(.*)?(ガチャ)(チケット)?$"=Guarantee ★3 $2 $3 $4
 出現率UP=Boosted rates
 
-選択人数が不足しています。=The number of selections is insufficient.
+選択人数が不足しています。=Insufficient options selected.
 購入Lv制限解除中=Purchase Lv restrictions are being lifted
 所持制限数を越えたアイテムは、プレゼントに送られます。=Items beyond the possession limit will be sent to the present.
 r:"^提供期間：([0-9/ :]+)まで$"=Provision Until: $1(JST)
 r:"^あと ([0-9:]{8})$"=$1 Left
-ガチャリセットまで=Until the gacha reset
+ガチャリセットまで=Until the Gacha reset
 ------
 交換ラインナップ=Exchange Lineup
 所持キャラ交換Pt=Char. Exchange Pts
