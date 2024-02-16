@@ -1,0 +1,5 @@
+闇属性=Dark
+光属性=Light
+風属性=Wind
+水属性=Water
+火属性=Fire
