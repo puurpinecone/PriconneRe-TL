@@ -333,6 +333,7 @@ Story Nick Name
 カガミ=Kagami
 ひより=Hiyori
 バックログ=Back log
+里の女性=Village Woman
 
 魔法少女たち=Magical Girls
 イオ・ノワール=Io Noir
