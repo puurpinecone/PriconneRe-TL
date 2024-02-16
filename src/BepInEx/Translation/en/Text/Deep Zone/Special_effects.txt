@@ -1,3 +1,5 @@
+特殊効果詳細=Special Effect Details
+
 火属性ボーナス特大アップ=Boosted Fire Element Bonus
 火属性のキャラが４体以上編成されているとき、\nキャラの属性ボーナスが強化される。火属性以外の\n属性ボーナスを無効化する。=When four or more Fire characters are in the party, boost to Element Bonus. Negates Ele. Bonus for other elements.
 
