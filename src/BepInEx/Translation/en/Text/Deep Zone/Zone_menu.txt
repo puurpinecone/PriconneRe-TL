@@ -4,10 +4,4 @@
 水属性=Water
 火属性=Fire
 
-r:"^紅焔の深域(\d+)-(\d+)$"=Depths of Scarlet Flame $1-$2
-r:"^蒼波の深域(\d+)-(\d+)$"=Depths of Azure Waves $1-$2
-r:"^翠嵐の深域(\d+)-(\d+)$"=Depths of Jade Winds $1-$2
-r:"^珀天の深域(\d+)-(\d+)$"=Depths of Golden Heaven $1-$2
-r:"^紫冥の深域(\d+)-(\d+)$"=Depths of Violet Dark $1-$2
-
 推奨プリンセスナイトRANK=Recommended PK RANK
