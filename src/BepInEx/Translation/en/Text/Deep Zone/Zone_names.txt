@@ -2,4 +2,4 @@ r:"^紅焔の深域(.{0,5})$"=Depths of Scarlet Flame $1
 r:"^蒼波の深域(.{0,5})$"=Depths of Azure Waves $1
 r:"^翠嵐の深域(.{0,5})$"=Depths of Jade Winds $1
 r:"^珀天の深域(.{0,5})$"=Depths of Golden Heaven $1
-r:"^紫冥の深域(.{0,5})$"=Depths of Violet Dark $1
+r:"^紫冥の深域(.{0,5})$"=Depths of Violet Abyss $1
