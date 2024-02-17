@@ -18,11 +18,11 @@
 属性ボーナス詳細=Elemental Bonus Details
 有効=Affinity
 弱点=Weakness
-発動属性ボーナス=Activation elemental bonus
-このクエストに有効な属性はありません。=There are no affinity elemental for this quest.
+発動属性ボーナス=Element Activation Bonus
+このクエストに有効な属性はありません。=There is no advantageous Element for this quest.
 
 イベント開催のお知らせ=Event Announcement
-予告を見る=Watch trailer
+予告を見る=Watch Trailer
 
 キャラ=Characters
 後衛=Back
